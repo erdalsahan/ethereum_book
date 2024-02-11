@@ -1,5 +1,5 @@
 ### [《精通以太坊——实现数字合约》](https://github.com/ethereumbook/ethereumbook) 中文版
-
+ 
 ### 关于译者
 互联网从业者，对经济学感兴趣，很早加入数字货币和区块链研究。
 
